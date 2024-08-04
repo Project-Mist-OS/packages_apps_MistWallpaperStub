@@ -15,15 +15,15 @@
     limitations under the License.
 -->
 <resources>
-    <string name="category_everest">Everest</string>
-    <string name="author_taki">by Taki</string>
-    <string name="wallpaper_everest_a">everest_1</string>
-    <string name="wallpaper_everest_b">everest_2</string>
-    <string name="wallpaper_everest_c">everest_3</string>
-    <string name="wallpaper_everest_e">everest_5</string>
-    <string name="wallpaper_everest_f">everest_6</string>
-    <string name="wallpaper_everest_g">everest_7</string>
-    <string name="wallpaper_everest_h">everest_8</string>
-    <string name="wallpaper_everest_i">everest_9</string>
-    <string name="wallpaper_everest_j">everest_10</string>
+    <string name="category_mist">Mist</string>
+    <string name="author_zabuka">by Zabuka</string>
+    <string name="wallpaper_mist_a">mist_1</string>
+    <string name="wallpaper_mist_b">mist_2</string>
+    <string name="wallpaper_mist_c">mist_3</string>
+    <string name="wallpaper_mist_e">mist_5</string>
+    <string name="wallpaper_mist_f">mist_6</string>
+    <string name="wallpaper_mist_g">mist_7</string>
+    <string name="wallpaper_mist_h">mist_8</string>
+    <string name="wallpaper_mist_i">mist_9</string>
+    <string name="wallpaper_mist_j">mist_10</string>
 </resources>
